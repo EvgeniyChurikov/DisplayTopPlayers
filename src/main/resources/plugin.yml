@@ -1,0 +1,6 @@
+name: DisplayTopPlayers
+version: ${project.version}
+main: me.needenoughsleep.displaytopplayers.DisplayTopPlayers
+api-version: 1.16
+authors: [ NeedEnoughSleep ]
+depend: [PlaceholderAPI]
